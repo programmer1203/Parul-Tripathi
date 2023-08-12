@@ -284,6 +284,10 @@ body{
     height: 40vh;
 }
 
+.page5 p:hover{
+    color: #7A316F;
+}
+
 .page5-div1{
     display: flex;
 }
